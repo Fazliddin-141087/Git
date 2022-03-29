@@ -11,5 +11,10 @@ class MainActivity : AppCompatActivity() {
         // gitlab
         // bitbucket
 
+        // todo: Github project for example
+        // commit
+        // pull
+        // push
+
     }
 }
