@@ -16,5 +16,8 @@ class MainActivity : AppCompatActivity() {
         // pull
         // push
 
+        //cmd
+        // terminal
+        // as
     }
 }
